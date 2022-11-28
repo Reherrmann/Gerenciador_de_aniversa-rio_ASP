@@ -1,0 +1,14 @@
+﻿@{
+    ViewData["Title"] = "Deletar";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Deletar uma pessoa</h1>
+    <a">Você tem certeza que deseja deletar essa pessoa?</a>
+</div>
+<a class="btn btn-primary" asp-controller="Deletar" asp-action="Apagar" role="button">
+    SIM
+</a>
+<a class="btn btn-primary" asp-controller="Lista" asp-action="Index" role="button">
+    NÃO
+</a>

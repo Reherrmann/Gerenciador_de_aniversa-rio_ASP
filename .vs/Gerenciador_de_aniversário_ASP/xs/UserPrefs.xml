@@ -1,0 +1,48 @@
+﻿<Properties StartupConfiguration="{01719A94-F577-4716-8311-F179A9DBBC6D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Gerenciador_de_aniversário_ASP/Views/Home/Index.cshtml">
+    <Files>
+      <File FileName="Gerenciador_de_aniversário_ASP/Program.cs" Line="1" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/appsettings.json" Line="8" Column="100" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Controllers/HomeController.cs" Line="10" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Properties/launchSettings.json" Line="1" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Views/_ViewStart.cshtml" Line="1" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Views/_ViewImports.cshtml" Line="1" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Views/Home/Index.cshtml" Line="9" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Views/Home/Privacy.cshtml" Line="1" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Views/Shared/_Layout.cshtml" Line="59" Column="58" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Controllers/EmptyClass.cs" Line="1" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Models/CadastroModel.cs" Line="16" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Arquivos/BancoCont.cs" Line="14" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="Gerenciador_de_aniversário_ASP/Views/Lista/Index.cshtml" Line="16" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Gerenciador_de_aniversário_ASP" expanded="True" selected="True">
+            <Node name="Gerenciador_de_aniversário_ASP" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Models" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Views" expanded="True">
+                <Node name="Home" expanded="True" />
+                <Node name="Lista" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Gerenciador__de__aniversário__ASP PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+</Properties>
